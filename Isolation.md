@@ -1,6 +1,6 @@
 # What is isolation?
 
-Isolation is one of four properties ([[ACID]]) of a [[database transaction]]. Isolation defines how a transaction would perceive changes from other transactions and vice versa. It is the goal of [[Concurrency control|concurrency control]].
+Isolation is one of four properties ([[ACID]]) of a [[database transaction]]. Isolation defines how a transaction would be affected by changes from other transactions and vice versa. It is the goal of [[Concurrency control|concurrency control]].
 
 # Why isolation?
 
